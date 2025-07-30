@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="left">Hi 👋, I'm Mahi Vashistha</h1>
-<h3 align="left">Learning and Building Everyday</h3>
+<h2 align="left">Learning and Building Everyday</h2>
+
 
 
 <p align="left">
